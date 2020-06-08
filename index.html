@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="version" content="v1.0">
+  <meta name="description" content="
+  Proyecto de formación en programación javascript con acceso a datos externos en formato 'JSON'.
+  Uso de APIs externas: Bootstrap.
+  Configuración de varios parámetros.
+  Paginación de resultados.
+  Diferentes plantillas de presentación de resultados según sean versículos o capítulos.
+  Búsqueda de un término específico.">
+  <meta name="keywords" content="HTML,CSS,JavaScript,JSON,Bootstrap">
+  <meta name="author" content="José A. González">
+  <title>La Biblia: Reina Valera 1909</title>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js" defer></script>
+  <script src="./modulos/titulo.js" defer></script>
+  <script src="./modulos/detalles.js" defer></script>
+  <script src="./modulos/formulario.js" defer></script>
+  <script src="./modulos/analisis.js" defer></script>
+  <script src="./modulos/consulta_libro.js" defer></script>
+  <script src="./modulos/consulta_multiple.js" defer></script>
+  <script src="./modulos/consulta_cadena_biblia.js" defer></script>
+  <script src="./modulos/consulta_cadena_libro.js" defer></script>
+  <script src="./modulos/consulta_cadena.js" defer></script>
+  <script src="./modulos/ejemplos.js" defer></script>
+  <script src="./modulos/navegacion.js" defer></script>
+  <script src="app.js" defer></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="./css/biblia.css">
+<body class="bg-secondary text-white">
+  <div class="container" id="app">
+    
+    <titulo :titulo="c_version" :estilo="estiloTitulos" :nivel="1"></titulo>
+
+    <navegacion :indice="c_listadoLibros" @consulta="m_consulta($event)" @mod_ejemplos="m_modulo_ejemplos($event)" @mod_analisis="m_modulo_analisis($event)"></navegacion>
+
+    <ejemplos v-if="mod_ejemplos" @ejemplo="m_consulta($event)"></ejemplos>
+    <analisis v-if="mod_analisis" @analisis="m_analisis($event)"></analisis>
+    
+    <titulo v-if="subtitulo" :titulo="subtitulo" :estilo="estiloTitulos" :nivel=2></titulo>
+    <detalles v-if="detalles" :detalles="detalles"></detalles>
+
+    <consulta-libro v-if="plantilla == 'consulta_libro'" :resultados="c_consulta" :estilo="estiloResultados"></consulta-libro>
+    <consulta-multiple v-else-if="plantilla == 'consulta_multiple'" @consulta="m_consulta($event)" :estilo="estiloResultados" :resultados="c_consulta"></consulta-multiple>
+    <consulta-cadena-biblia v-else-if="plantilla == 'consulta_cadena_biblia'" @consulta="m_consulta($event)" :resultados="c_consulta" :estilo="estiloResultados"></consulta-cadena-biblia>
+    <consulta-cadena-libro v-else-if="plantilla == 'consulta_cadena_libro'" @consulta="m_consulta($event)" :resultados="c_consulta" :estilo="estiloResultados"></consulta-cadena-libro>
+    <consulta-cadena v-else-if="plantilla == 'consulta_cadena'" @consulta="m_consulta($event)" :resultados="c_consulta" :estilo="estiloResultados"></consulta-cadena>
+
+    <div id="error"></div>
+    <div id="pie" class="text-center">
+    </div>
+  </div>
+  </body>
+</html>

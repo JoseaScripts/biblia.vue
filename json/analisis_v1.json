@@ -1,0 +1,425 @@
+[
+   {
+      "nombre": "¡Al Infierno!",
+      "clases":[
+         "btn-danger"
+      ],
+      "mostrar": true,
+      "elementos":[
+         {
+            "titulo":"¿Qué hay mal con mi pene?",
+            "detalle":"Jehová lo deja muy claro: ningún hombre con prepucio accederá a la vida eterna. Es una de las pocas ventajas de ser mujer de acuerdo con el antiguo testamento.",
+            "consulta":[
+               "gn:17:10",
+               "gn:17:14"
+            ],
+            "mostrar": true,
+            "fuentes":[
+               [
+                  "ZonaJ",
+                  "http://zonaj.net/noticia/1076/16/10-versiculos-biblia-desconocidos/"
+               ]
+            ]
+         },
+         {
+            "titulo":"Sabath",
+            "detalle":"El séptimo día de la semana se reserva para el descanso y la oración. Está prohibida toda actividad, desde trabajar a cocinar. Va haciendo más calorcito...",
+            "consulta":[
+               "gn:2:2-3",
+               "ex:16:23",
+               "ex:16:29",
+               "nm:15:32-36"
+            ],
+            "mostrar": true,
+            "fuentes":[
+               [
+                  "Soy Ateo",
+                  "https://www.ateoyagnostico.com/2017/07/22/el-tremendo-pecado-de-coger-lena-un-sabado/"
+               ]
+            ]
+         }
+      ]
+   },
+   {
+      "nombre": "Misoginia",
+      "clases":[
+         "btn-warning"
+      ],
+      "mostrar": true,
+      "elementos":[
+         {
+            "titulo":"Matrimonios concertados",
+            "detalle":"Parece que a Jehová, que la mujer decida con quien casarse no le va mucho",
+            "consulta":[
+               "1 Samuel:18:27",
+               "Génesis:38:8"
+            ],
+            "mostrar": true,
+            "fuentes":[
+
+            ]
+         }
+      ]
+   },
+   {
+      "nombre": "Curiosidades",
+      "clases":[
+         "btn-dark"
+      ],
+      "mostrar": true,
+      "elementos":[
+         {
+            "titulo":"La importancia de los genitales",
+            "detalle":"Los <i>genitales</i> son nombrados muchas veces en las sagradas escrituras.'",
+            "consulta":[
+               "Deuteronomio23:1",
+               "gn:17:10",
+               "gn:17:14"
+            ],
+            "mostrar": true,
+            "fuentes":[
+               [
+                  "ZonaJ",
+                  "http://zonaj.net/noticia/1076/16/10-versiculos-biblia-desconocidos/"
+               ]
+            ]
+         },
+         {
+            "titulo":"Un exibicionista",
+            "detalle":"Y Jehová, le dijo a Marcos: 'Anda, escribe lo de ese que seguía a Jesús en pelotas.'",
+            "consulta":[
+               "S. Marcos:14:51-52"
+            ],
+            "mostrar": true,
+            "fuentes":[
+               [
+                  "ZonaJ",
+                  "http://zonaj.net/noticia/1076/16/10-versiculos-biblia-desconocidos/"
+               ]
+            ]
+         },
+         {
+            "titulo":"El Siete",
+            "detalle":"<strong>La Biblia</strong> es un libro lleno de supersticiones.<br> Es curioso como se repite el número <em>7</em> una y otra vez. A la hora de elegir un grupo de personas, animales, días o cualquier otra cosa o evento casi siempre aparece el 'siete'. <br>Estadísticamente no tiene sentido. Los resultados corresponden a búsquedas de los números en letras y separados de las siguientes palabras por espacios, para evitar que cuente palabras como 'veintitrés', 'doncella', 'desnudos', 'criados'...",
+            "consulta":[
+               " uno ",
+               " dos ",
+               " tres ",
+               " cuatro ",
+               " cinco ",
+               " seis ",
+               " siete ",
+               " ocho ",
+               " nueve ",
+               " diez ",
+               " once ",
+               " doce "
+            ],
+            "mostrar": true,
+            "fuentes":[
+
+            ]
+         }
+      ]
+   },
+   {
+       "nombre":"Dudas",
+       "clases":[
+          "btn-dark"
+       ],
+       "mostrar": true,
+       "elementos":[
+          {
+             "titulo":"El pene de Adán",
+             "detalle":"Dios creó a Adán como culminación a su gran obra para 'señorear' sobre el resto de la Creación. Lo creó a su imagen y semejanza y sin pareja. Entonces ¿qué utilidad tenían los testículos (fábricas de espermatozoides) que le puso? Es más, ¿la función del pene era la masturbación, tan detestada por la Iglesia, o se lo puso para fornicar con los animales? Por último, si Adán es a imagen y semejanza de Dios, ¿tiene Dios una Diosa en el cielo y hacen Diositos cuando nadie mira?",
+             "consulta":[
+                "gn:1:27",
+                "gn:2:7"
+             ],
+             "mostrar": true,
+             "fuentes":[
+ 
+             ]
+          }
+       ]
+    },
+    {
+       "nombre":"No Matarás",
+       "clases":[
+          "btn-dark"
+       ],
+       "mostrar": true,
+       "elementos":[
+          {
+             "titulo":"Uzza",
+             "detalle":"David decide llevar el Arca de Quiriat-jearim a su ciudad. En un tramo del camino los bueyes que la transportan se desmandan, o tropiezan según la versión de la biblia que estemos leyendo. Uzza, quien guiaba el carro, extiende su mano para sostener el Arca. Motivo suficiende para que Jehová lo fulmine en el acto. ¡Muerto!.",
+             "consulta":[
+                "1ch:13:9-10"
+             ],
+             "mostrar": true,
+             "fuentes":[
+ 
+             ]
+          },
+          {
+            "titulo":"Eliseo, los niños y los osos.",
+            "detalle":"Iba Eliseo caminando por el monte y unos jóvenes (más cuarenta) le vieron subir con dificultad. Los muchachos, que bien podrían ser niños según nuestros actuales estándares, se rieron de él. Eliseo se giró y los maldijo 'EN NOMBRE DEL SEÑOR' y Jehová asesinó a cuarenta y dos de ellos enviándoles unos osos.",
+            "consulta":[
+               "2 Reyes:2:23-24"
+            ],
+            "mostrar": true,
+            "fuentes":[
+               [
+                  "ZonaJ",
+                  "http://zonaj.net/noticia/1076/16/10-versiculos-biblia-desconocidos/"
+               ]
+            ]
+         },
+         {
+            "titulo":"Cuidadito con acabar fuera.",
+            "detalle":"Primero se tiene que casar con su cuñada para darle descendencia a su hermano muerto. Pero como se corría fuera, para evitar el embarazo, <b>¡Zasca!</b>",
+            "consulta":[
+               "Génesis:38:8-10"
+            ],
+            "mostrar": true,
+            "fuentes":[
+               [
+                  "ZonaJ",
+                  "http://zonaj.net/noticia/1076/16/10-versiculos-biblia-desconocidos/"
+               ]
+            ]
+         }
+       ]
+    },
+    {
+       "nombre":"Contradicciones",
+       "clases":[
+          "btn-dark"
+       ],
+       "mostrar": true,
+       "elementos":[
+          {
+             "titulo":"Hombre o animales",
+             "detalle":"No queda claro que fue creado primero, ¿el hombre o los animales?",
+             "consulta":[
+                "gn:1:25-26",
+                "gn:2:18-19"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Vix",
+                   "https://www.vix.com/es/btg/curiosidades/7552/5-grandes-contradicciones-en-la-biblia"
+                ],
+                [
+                   "OK diario",
+                   "https://okdiario.com/curiosidades/5-contradicciones-biblia-tienes-conocer-598418"
+                ]
+            ]
+        },
+        {
+         "titulo":"Edad del hombre",
+         "detalle":"Disgustado Dios con la actitud de los hombres, decide que éstos no vivirán más de 120 años. Sin embargo rompe esta promesa en muhas ocasiones. Sin olvidar que ha habido casos registrados recientemente de personas que han sobrepasado los 120 años de edad.",
+         "consulta":[
+            "gn:6:3",
+            "gn:9:29",
+            "gn:11:32"
+         ],
+         "mostrar": true,
+         "fuentes":[
+        ]
+    },
+        {
+           "titulo":"¿Quién incitó la guerra de David?",
+           "detalle":"¿Quién incitó a David a contar los hombres aptos para la guerra de Israel?",
+           "consulta":[
+              "2sm:24:1",
+              "1ch:21:1"
+           ],
+           "mostrar": true,
+           "fuentes":[
+              [
+                 "Y la verdad os hará libres",
+                 "http://ylaverdadnosharalibres.blogspot.com/2011/09/100-contradicciones-en-la-biblia-y-por.html"
+              ]
+           ]
+        },
+        {
+             "titulo":"No robarás",
+             "detalle":"Todo el mundo sabe que robar está concebido como un pecado, pero en ÉXODO, donde está escrito el mandamiento, hay una contradicción. Y es que despojar es en su significado muy parecido a robar.",
+             "consulta":[
+                "ex:20:15",
+                "ex:3:21-22",
+                "lk:19:29-34"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "OK diario",
+                   "https://okdiario.com/curiosidades/5-contradicciones-biblia-tienes-conocer-598418"
+                ],
+                [
+                   "Vix",
+                   "https://www.vix.com/es/btg/curiosidades/7552/5-grandes-contradicciones-en-la-biblia"
+                ]
+             ]
+          },
+          {
+             "titulo":"Últimas palabras",
+             "detalle":"El momento en el que Cristo muere en la cruz es uno de los más famosos dentro de la historia bíblica. Pero, ¿cuáles fueron sus últimas palabras?",
+             "consulta":[
+                "ps:22:1",
+                "lk:23:46",
+                "jo:19:30"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Vix",
+                   "https://www.vix.com/es/btg/curiosidades/7552/5-grandes-contradicciones-en-la-biblia"
+                ],
+                [
+                   "Ok diario",
+                   "https://okdiario.com/curiosidades/5-contradicciones-biblia-tienes-conocer-598418"
+                ]
+             ]
+          },
+          {
+             "titulo":"Pecados ajenos",
+             "detalle":"En la Biblia hay algo muy claro: todo acto tiene sus consecuencias. Pero, ¿serán solo mis actos por los que seré castigado o tengo que velar porque el resto no cometa errores para que yo no sea juzgado? Aquí dos posturas.",
+             "consulta":[
+                "dt:24:16",
+                "is:14:21"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Ok diario",
+                   "https://okdiario.com/curiosidades/5-contradicciones-biblia-tienes-conocer-598418"
+                ]
+             ]
+          },
+          {
+             "titulo":"Número de soldados",
+             "detalle":"¿Cuantos hombres de las tribus de Israel y de Judá fueron censados para ir a la guerra?",
+             "consulta":[
+                "2sm:24:9",
+                "1ch:21:5"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Y la verdad os hará libres",
+                   "http://ylaverdadnosharalibres.blogspot.com/2011/09/100-contradicciones-en-la-biblia-y-por.html"
+                ]
+             ]
+          },
+          {
+             "titulo":"Dios pacífico",
+             "detalle":"Siempre hemos tenido la imagen de que Jesús era un hombre de paz, que no hacía uso de la violencia. Pero según qué parte de la Biblia leamos, la idea de paz cambia por completo.",
+             "consulta":[
+                "mt:10:34",
+                "jo:14:27",
+                "act:10:36"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Vix",
+                   "https://www.vix.com/es/btg/curiosidades/7552/5-grandes-contradicciones-en-la-biblia"
+                ],
+                [
+                   "OK diario",
+                   "https://okdiario.com/curiosidades/5-contradicciones-biblia-tienes-conocer-598418"
+                ]
+             ]
+          },
+          {
+             "titulo":"Edad de Ocozías",
+             "detalle":"¿Cuál era la edad de Ocozías cuando comenzó a reinar en Israel?",
+             "consulta":[
+                "2kgs:8:26",
+                "2ch:22:2"
+             ],
+             "fuentes":[
+                [
+                   "Y la verdad os hará libres",
+                   "http://ylaverdadnosharalibres.blogspot.com/2011/09/100-contradicciones-en-la-biblia-y-por.html"
+                ]
+             ]
+          },
+          {
+             "titulo":"Reinado de Joaquín",
+             "detalle":"En el caso del Rey Joaquín, no queda claro la edad que tenía al comenzar su reinado, ni el tiempo que duró",
+             "consulta":[
+                "2kgs:24:8",
+                "2ch:36:9"
+             ],
+             "fuentes":[
+                [
+                   "Y la verdad os hará libres",
+                   "http://ylaverdadnosharalibres.blogspot.com/2011/09/100-contradicciones-en-la-biblia-y-por.html"
+                ]
+             ]
+          },
+          {
+             "titulo":"Jasobeam",
+             "detalle":"¿Cuántos hombres mató de una sola vez el capitán de los poderosos soldados de David con su lanza?",
+             "consulta":[
+                "2sm:23:8",
+                "1ch:11:11"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Y la verdad os hará libres",
+                   "http://ylaverdadnosharalibres.blogspot.com/2011/09/100-contradicciones-en-la-biblia-y-por.html"
+                ]
+             ]
+          },
+          {
+             "titulo":"Arca del Pacto",
+             "detalle":"¿Cuándo trajo David el Arca del Pacto a Jerusalén? ¿Antes o después de derrotar a los Filisteos? Precisa una lectura más extensa.",
+             "consulta":[
+                "2sm:5:6",
+                "1ch:13:14"
+             ],
+             "fuentes":[
+                [
+                   "Y la verdad os hará libres",
+                   "http://ylaverdadnosharalibres.blogspot.com/2011/09/100-contradicciones-en-la-biblia-y-por.html"
+                ]
+             ]
+          },
+          {
+             "titulo":"Hambruna",
+             "detalle":"Dios envió a su profeta Gad para que amenazara a David con una hambruna. Lo que no queda claro es la duración que ésta tendría.",
+             "consulta":[
+                "2sm:24:13",
+                "1ch:21:12"
+             ],
+             "fuentes":[
+                [
+                   "Islam House",
+                   "https://www.muslim-library.com/dl/books/spanish_101_CONTRADICCIONES_EN_LA_BIBILA.pdf"
+                ]
+             ]
+          },
+          {
+             "titulo":"Arrepentimiento",
+             "detalle":"Según la interpretación más popular, Dios es infalible y por lo tanto, como no puede equivocarse tampoco puede arrepentirse de sus actos y decisiones.",
+             "consulta":[
+                "1sm:15:29",
+                "gn:6:7"
+             ],
+             "mostrar": true,
+             "fuentes":[
+                [
+                   "Catholic.net",
+                   "https://es.catholic.net/op/articulos/5736/cat/349/contradicciones-en-la-biblia.html#modal"
+                ]
+             ]
+          }
+       ]
+    }
+ ]
